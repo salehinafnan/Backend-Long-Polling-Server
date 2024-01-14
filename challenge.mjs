@@ -1,5 +1,3 @@
-export async function blockingGet(key) {
-}
+export async function blockingGet(key) {}
 
-export async function push(key, data) {
-}
+export async function push(key, data) {}
